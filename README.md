@@ -13,5 +13,5 @@ This repository contains a personal website dedicated to my favorite book, *And 
 [https://marshanjami.github.io/html5practical/]
 
 ## Validation
-All pages validated with 0 errors at [W3C Validator](https://validator.w3.org/).
+All pages validated with 0 errors at [https://validator.w3.org/nu/?doc=https%3A%2F%2Fmarshanjami.github.io%2Fhtml5practical%2F]
 
